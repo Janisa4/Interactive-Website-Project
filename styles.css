@@ -1,0 +1,75 @@
+body {
+    color: white;
+    text-align: center;
+    background:#ac3939;
+    font-family:'Staatliches', sans-serif;
+}
+
+.title {
+    font-size:44px;
+    margin:2px;
+    font-family:georgia;
+    background-color:#862d2d;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content:center;
+}
+
+.firstImage {
+    height:310px;
+    margin:20px;
+}
+
+.start-button {
+    height:50px;
+    width:150px;
+    margin:6px;
+}
+
+.ofcourse-button {
+    height:50px;
+    width:150px;
+    margin:6px;
+}
+
+.nah-button {
+    height:50px;
+    width:150px;
+    margin:6px;
+}
+
+.going {
+    height:50px;
+    width:150px;
+    margin:10px;
+}
+
+.notgoing {
+    height:50px;
+    width:150px;
+    margin:10px;
+}
+.popcorn{
+    height:50px;
+    width:150px;
+    margin:10px;
+}
+.good-choice{
+    height:50px;
+    width:150px;
+    margin:10px;
+}
+.bad-choice{
+    height:50px;
+    width:150px;
+    margin:10px;
+}
+.play-again{
+    height:50px;
+    width:150px;
+    margin:10px;
+}
